@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zahra</h1>
 <h3 align="center">Junior Front-End Developer </h3>
 
-<img align="right" alt="coding" witdh="200" Height="350" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif">
+<p align="right" alt="coding" witdh="200" Height="350">
+<a href="https://storyset.com/web">Web illustrations by Storyset</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrabagheri1&label=Profile%20views&color=0e75b6&style=flat" alt="zahrabagheri1" /> </p>
 <!-- 
