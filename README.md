@@ -32,9 +32,9 @@
 <p align="center">
 <a href="https://www.coffeebede.com/zahra"><img  class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg"  width="300" height="150" /></a>
 </p>
-<hr>
+<!-- <hr>
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=zahrabagheri1&show_icons=true&locale=en&layout=compact" alt="zahrabagheri1" /></p>
 <br>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=zahrabagheri1&show_icons=true&locale=en" alt="zahrabagheri1" /></p>
 <br>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zahrabagheri1&" alt="zahrabagheri1" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zahrabagheri1&" alt="zahrabagheri1" /></p> -->
