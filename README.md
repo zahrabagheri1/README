@@ -29,8 +29,8 @@
 
 <hr>
 <h3 align="left">Support:</h3>
-<p>
-<a href="https://www.coffeebede.com/zahra"><img align="center" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg"  width="300" height="150" /></a>
+<p align="center">
+<a href="https://www.coffeebede.com/zahra"><img  class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg"  width="300" height="150" /></a>
 </p>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahrabagheri1&show_icons=true&locale=en&layout=compact" alt="zahrabagheri1" /></p>
