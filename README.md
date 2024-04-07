@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahra</h1>
-<h3 align="center">Junior Front-End Developer </h3>
+<h3 align="center">Front-End Developer </h3>
 
 <img align="right" alt="coding" witdh="200" Height="350" src="JavaScript frameworks-bro.svg">
 
