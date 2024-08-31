@@ -2,15 +2,15 @@
 <h3 align="center">Front-End Developer </h3>
 
 <img align="right" alt="coding" witdh="200" Height="350" src="JavaScript frameworks-bro.svg">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahrabagheri1" alt="zahrabagheri1" /></a> </p>
-
+<p>
+ 
 - 🌱 I’m currently learning **frameworks, courses,etc.**
 
 - **My main goal for learning is to become a professional senior full stack developer.**
 
 - 📫 How to reach me **zahrabagheriuk@gmail.com**
 
+</p>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
